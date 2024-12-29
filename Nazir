@@ -1,7 +1,6 @@
 
-
 {
-  "remarks": "httpzops4ft0f (IRCF Fragment)",
+  "remarks": "GRPCwaa2hqqb0 (IRCF Fragment)",
   "log": {
     "access": "",
     "error": "",
@@ -55,10 +54,10 @@
         "vnext": [
           {
             "address": "www.zula.ir",
-            "port": 8443,
+            "port": 2083,
             "users": [
               {
-                "id": "e9de1675-f4f0-4409-defc-84cf4dc79f56",
+                "id": "71bc2929-0071-4ac1-d140-f52270fdc179",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -74,7 +73,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "fFf.NaZiRmaN.cfD",
+          "serverName": "fff.naziRMAn.CFd",
           "alpn": [
             "h2",
             "http/1.1"
